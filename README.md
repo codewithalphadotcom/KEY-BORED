@@ -1,6 +1,6 @@
-# **Key-Bored Typing Tutor**
+# **KEY-BORED**
 
-Key-Bored Typing Tutor is a simple command-line typing tutor developed in C programming language. It generates random sentences for the user to type, measures their typing speed (words per minute), accuracy, and displays a leaderboard with the best performances.
+KEY-BORED is a simple command-line typing tutor developed in C programming language. It generates random sentences for the user to type, measures their typing speed (words per minute), accuracy, and displays a leaderboard with the best performances.
 
 ## _Features_
 
@@ -26,7 +26,10 @@ Key-Bored Typing Tutor is a simple command-line typing tutor developed in C prog
 git clone https://github.com/code-with-alpha/KeyBored-Typing-Tutor.git
 ```
 - Compile the code using a C compiler.
-- Run the executable and follow the on-screen instructions.
+```bash
+gcc main.c
+```
+- Run the executable using `./a.exe` if you are on Windows or use `./a.out` if you are using MacOS, and follow the on-screen instructions.
 
 ## _Contributors_
 1. Muhammad Shehryar Choudhary
