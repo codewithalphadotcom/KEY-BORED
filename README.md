@@ -23,7 +23,7 @@ KEY-BORED is a simple command-line typing tutor developed in C programming langu
 - Clone the repository:
 
 ```bash
-git clone https://github.com/code-with-alpha/KeyBored-Typing-Tutor.git
+git clone https://github.com/codewithalphadotcom/KEY-BORED.git
 ```
 - Compile the code using a C compiler.
 ```bash
